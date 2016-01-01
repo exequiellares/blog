@@ -1,0 +1,63 @@
+.cuerpo {
+    width:90%;
+    margin: auto;
+    
+} 
+
+.barrasuperior{
+    margin: 10px;
+    overflow: hidden;
+    /*border: 1px solid #f00;*/
+}
+
+
+
+.barrasuperior li{
+    width:50px;
+    margin: 5px;
+    padding: 5px;
+    /*border: 1px solid #000;*/
+    float: left
+}
+
+.contenido{
+    /*float: none;*/
+    /*border: 1px solid #0f0;*/
+}
+
+.botones a{
+    padding: 5px;
+    width: 50px;
+}
+
+.botones a:link{
+    background-color: #0078a0;
+    color: #fff;
+    font-weight: bold;
+    border: 1px solid #0078a0;
+}
+
+.botones a:visited{
+    background-color: #0078a0;
+    color: #fff;
+    font-weight: bold;
+    border: 1px solid #0078a0;
+}
+
+.botones a:hover{
+    background-color: #004d40;
+    color: #fff;
+    font-weight: bold;
+    border: 1px solid #004d40;
+}
+
+
+
+.botones a:active{
+    background-color: #004d40;
+    color: #fff;
+    font-weight: bold;
+    border: 1px solid #004d40;
+}
+
+
